@@ -1,0 +1,11 @@
+[user]
+	name = Marc Fouché
+	email = marc.fouche@orange.com
+[gitreview]
+	scheme = https
+	port = 443
+	username = marc-fouche
+[core]
+	editor = vim
+[push]
+	default = tracking
